@@ -1,2 +1,2 @@
 # CircData
-Statistics and plotting of circular data
+Statistics and plotting functions for circular data in Python
